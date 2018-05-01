@@ -53,6 +53,7 @@ uploadArchives {
 
 
 ## 项目应用GitHub上的maven
+
 这个其实更特么简单了！
 ```
 //依赖中添加
@@ -74,4 +75,5 @@ repositories {
 ```
 ### 大功告成-->分享一下demo咯
 https://github.com/gepriniusce/hello-world
+
 https://github.com/gepriniusce/hello-maven

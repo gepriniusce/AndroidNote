@@ -3,6 +3,6 @@
 
 
 * RxJava
-    * [RxJava](https://github.com/gepriniusce/AndroidNote/RxJava/RxJava.md)
+    * [RxJava](https://github.com/gepriniusce/AndroidNote/blob/master/RxJava/RxJava.md)
 
 [▲ 回到顶部](#top)
